@@ -1,0 +1,26 @@
+
+
+
+.background{
+    background-color: $background;
+}
+.shadow{
+    box-shadow: 2px 8px 15px -10px rgba(0,0,0,0.8);
+}
+
+.pt-1{
+    padding-top: 2rem;
+}
+.pt-4{
+    padding-top: 4rem;
+}
+.py-3{
+    padding: 3rem 0;
+}
+.py-4{
+    padding: 4rem 0;
+}
+
+.my-2{
+    margin: 2rem 0;
+}
