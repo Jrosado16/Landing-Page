@@ -13,7 +13,7 @@ Server
 
 Deploy
 
-> npm start
+https://landing-webapp.herokuapp.com/
 
 
 
